@@ -10,7 +10,7 @@ import UIKit
 class ViewControllerDrivers: UIViewController {
 
     @IBOutlet weak var tableView: UITableView!
-    let drivers = ["Hamilton", "Verstappen", "Bottas", "Leclerc", "Norris", "Perez", "Git changed"]
+    let drivers = ["Lewis Hamilton", "Max Verstappen", "Charles Leclerc", "Lando Norris", "Sergio Perez"]
 
     
         override func viewDidLoad() {
